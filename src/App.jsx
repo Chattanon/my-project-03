@@ -7,7 +7,6 @@ function App(){
             Hi
             <h1>Welcome</h1>
             <wow/>
-            
         </>
     )
 }
